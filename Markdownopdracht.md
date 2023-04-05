@@ -3,7 +3,7 @@
 
 ## below follows the code block
 
-'print("Story generator")
+`print("Story generator")
 
 verb_1 = input("Welke activiteit doe je het liefst?")
 verb_2 = input("Wat doe je nog meer graag?")
@@ -16,7 +16,7 @@ story = f"\nKortste sprookje ooit\n\nEr was eens een kerel die een meisje vroeg:
 
 print(f"\n{'*' * 12}\nGenerating story\n{'*' * 12}\n")
 
-print(story)'
+print(story)`
 
 **cause i had to add a bold sentence**
 
